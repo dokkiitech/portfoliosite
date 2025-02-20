@@ -7,7 +7,7 @@
       "image": "/images/products/myportfolio.png",
       "features": ["シンプルな項目に絞って目的の情報にアクセスしやすく", "products.jsonを編集するだけで編集可能！","更新もbuildしてpushするだけ！"],
       "technologies": ["Next.js","tailwindCSS","CloudFlare","ClodFlare Pages"],
-      "githubUrl": "https://github.com/dokkiitech/portfolio/"
+      "githubUrl": "https://github.com/dokkiitech/portfoliosite/"
     },
     {
       "id": 2,
