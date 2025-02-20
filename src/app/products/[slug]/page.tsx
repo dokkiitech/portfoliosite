@@ -27,7 +27,7 @@ export default function ProductDetail({ params }) {
             <Header />
             <main className="flex-grow p-8">
                 <Link href="/products" className="font-dot text-blue-400 hover:text-blue-300 mb-4 inline-block">
-                    ← 製品一覧に戻る
+                    ← Product一覧に戻る
                 </Link>
                 <div className="max-w-4xl mx-auto">
                     <h1 className="text-3xl font-dot mb-4">{product.name}</h1>
