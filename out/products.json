@@ -4,7 +4,7 @@
       "name": "GitEase",
       "slug": "gitease",
       "description": "githubを使ったことがない人でもgitコマンドを自動生成",
-      "image": "/images/products/gitease.svg",
+      "image": "/images/products/gitease.png",
       "features": ["pushコマンドとpullコマンドを直感的にコピー可能", "gitコマンドの学習に最適"],
       "technologies": ["Vue", "Vuetify","CloudFlare Pages"],
       "githubUrl": "https://github.com/dokkiitech/gitease/"
@@ -18,6 +18,16 @@
       "features": ["毎月送られてくる請求書のメール送信作業をGASで自動化", "GASを使用することで管理費を削減"],
       "technologies": ["GoogleAppScript"],
       "githubUrl": "https://github.com/dokkiitech/mailfilesender/"
+    },
+    {
+      "id": 3,
+      "name": "MyPortfolioSite",
+      "slug": "myportfoliosite",
+      "description": "成果物を見やすくそして管理しやすく",
+      "image": "/images/products/myportfolio.png",
+      "features": ["シンプルな項目に絞って目的の情報にアクセスしやすく", "products.jsonを編集するだけで編集可能！","更新もbuildしてpushするだけ！"],
+      "technologies": ["Next.js","tailwindCSS","CloudFlare","ClodFlare Pages"],
+      "githubUrl": "https://github.com/dokkiitech/portfolio/"
     }
   ]
 
