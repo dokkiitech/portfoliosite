@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "GitEase",
+      "slug": "gitease",
+      "description": "githubを使ったことがない人でもgitコマンドを自動生成",
+      "image": "/images/products/gitease.svg",
+      "features": ["pushコマンドとpullコマンドを直感的にコピー可能", "gitコマンドの学習に最適"],
+      "technologies": ["Vue", "Vuetify","CloudFlare Pages"],
+      "githubUrl": "https://github.com/dokkiitech/gitease/"
+    },
+    {
+      "id": 2,
+      "name": "MailFileSender",
+      "slug": "mailfilesender",
+      "description": "面倒な請求書送信をGASで自動化！",
+      "image": "/images/products/mailfilesender.png",
+      "features": ["毎月送られてくる請求書のメール送信作業をGASで自動化", "GASを使用することで管理費を削減"],
+      "technologies": ["GoogleAppScript"],
+      "githubUrl": "https://github.com/dokkiitech/mailfilesender/"
+    }
+  ]
+
