@@ -1,5 +1,4 @@
 # 🎨 My Portfolio
-![SourceForge Commit Count](https://img.shields.io/sourceforge/commit-count/portfoliosite)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dokkiitech/portfoliosite)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/dokkiitech/portfoliosite)
 ## 🚀 プロジェクト概要
