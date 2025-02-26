@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
     title: "MyPortfolio",
-    description: "木戸亮輔のポートフォリオサイトです。Productの他にも各種SNSや取り組みなどの情報も掲載しています。",
+    description: "木戸亮輔のポートフォリオサイトです。成果物の他にも各種SNSや取り組みなどの情報も掲載しています。",
     icons: {
         icon: "/favicon.ico",
     },
