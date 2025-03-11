@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-      "export": "next build && next export"
+      "export": "next build && next export",
+    "deploy": "npm run build && git add . && git commit -m 'update site' && git push origin main"
     },
   "engines": {
     "node": ">=20"

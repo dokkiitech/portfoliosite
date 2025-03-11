@@ -32,6 +32,14 @@ export default function Home() {
                                 Contact
                             </Link>
                         </li>
+                        <li>
+                            <Link
+                                href="/reserve"
+                                className="font-dot text-white text-lg sm:text-xl hover:text-gray-300 transition-colors duration-300"
+                            >
+                                Reserve
+                            </Link>
+                        </li>
                     </ul>
                 </nav>
             </div>
