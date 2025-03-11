@@ -7,7 +7,7 @@ export default function Reserve() {
             <Header />
             <main className="flex-grow flex items-center justify-center p-8">
                 <div className="max-w-2xl text-center">
-                    <h1 className="text-3xl font-dot mb-8">Reserve</h1>
+                    <h1 className="text-3xl font-dot mb-8">Appointment</h1>
                     <p className="text-xl font-jp mb-10">お打ち合わせのご予約は<br/>こちらからお願いします。<br/>お急ぎの場合は各種SNSよりご連絡ください。</p>
                     <a
                         href="https://calendar.app.google/36ZkSsxR12yCumsC7"
