@@ -37,7 +37,7 @@ export default function Home() {
                                 href="/appointment"
                                 className="font-dot text-white text-lg sm:text-xl hover:text-gray-300 transition-colors duration-300"
                             >
-                                Reserve
+                                Appoint
                             </Link>
                         </li>
                     </ul>
