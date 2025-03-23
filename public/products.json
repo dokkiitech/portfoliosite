@@ -20,6 +20,16 @@
       "githubUrl": "https://github.com/dokkiitech/gitease/"
     },
     {
+      "id": 3,
+      "name": "MailFileSender",
+      "slug": "mailfilesender",
+      "description": "面倒な請求書送信をGASで自動化！",
+      "image": "/images/products/mailfilesender.png",
+      "features": ["毎月送られてくる請求書のメール送信作業をGASで自動化", "GASを使用することで管理費を削減"],
+      "technologies": ["GoogleAppScript"],
+      "githubUrl": "https://github.com/dokkiitech/mailfilesender/"
+    },
+    {
       "id": 4,
       "name": "服薬管理アプリ",
       "slug": "Medication_Management_App",
